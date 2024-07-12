@@ -1,10 +1,13 @@
 # [JSL01] Submission: Syntax-Engine Interaction Challenge
 
-You will: 
-1. Use the Starter Code Repo, 
-2. Code your solution,
-3. Commit changes to your repo
-3. Submit GitHub Repo Link to LMS [JSL01] Submission Project Tab
+What was Achieved : 
+1. Used Regular expression to create a form of Validation logic to calculate if the syntax was valid.  
+2. Created an If / else statement to provide an alert to highlight if the inputted information was valid.
+
+
+
+
+# Below is the original Brief of the exercise.
 
 Imagine you are building a virtual pet adoption website, and you need to create a JavaScript function that checks if the user has entered valid pet adoption details. Write a function that takes a string as input and validates if it follows a specific syntax, such as starting with "pet_" followed by a combination of letters and numbers. If the input follows the syntax, return "Valid Syntax," otherwise, return "Invalid Syntax."
 
